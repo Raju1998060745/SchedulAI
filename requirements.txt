@@ -4,3 +4,11 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 
+#Langraph dependencies
+langgraph
+langchain-core
+langchain-ollama
+ollama
+langchain-openai
+langchain-community
+langgraph-cli
